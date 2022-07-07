@@ -1,0 +1,45 @@
+.main-div{
+    text-align:center;
+    margin-top:23px;
+}
+
+h1{
+    font-size:3rem;
+    margin:auto;
+    color:#ffe9e3;
+}
+
+body{
+    background-color: #975a5e;
+}
+
+table{
+    margin:auto;
+}
+
+input{
+    font-size:34px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin:10px;
+    padding:5px;
+}
+
+button{
+    font-size:30px;
+    background-color: rgb(64, 147, 186);
+    width: 102px;
+    height: 55px;
+    border-radius: 10px;
+    margin:5px;
+    
+}
+
+.inner-div{
+    border: 5px solid;
+    display:inline-block;
+    background-color: #f3cba5;
+    margin:4%;
+    border-radius: 30px;
+    padding:20px;
+}
