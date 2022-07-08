@@ -1,0 +1,41 @@
+body{
+    background-color:  #248888;
+}
+
+.main-div{
+    background-color: #c4edde;
+    width: 50vw;
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding:1% 1%;
+    border-radius:25px;
+    box-shadow: 8px 8px rgba(80, 77, 77, 0.5);
+}
+
+.heading{
+    font-size:4rem;
+    color:#22559c;
+}
+
+button{
+    margin-top: 5px;
+    background-color: #15b7b9;
+    border-radius: 15px;
+    margin:2%;
+    font-size:1.3rem;
+    cursor:pointer;
+    padding: 3% 3%;
+    border:none;
+    color:blanchedalmond;
+}
+
+button:hover{
+    background-color: #a1dcdd;
+}
+
+p{
+    font-size:4rem;
+}
